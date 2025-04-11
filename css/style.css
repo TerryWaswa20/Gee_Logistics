@@ -537,6 +537,68 @@ a:focus {
   background-color: #065968;
 }
 
+.offer {
+  padding-top: 90px;
+}
+
+.offer-bg {
+  background: whitesmoke;
+  padding: 90px 0px;
+ 
+}
+
+.margin {
+  margin-bottom: 30px;
+}
+
+
+.offer .offer-bg {
+  background: navy;
+  text-align: center;
+  padding: 60px 0px;
+}
+.offer .offer-bg .offer_box {text-align: center;}
+.offer .offer-bg .offer_box figure {margin: 0;}
+.offer .offer-bg .offer_box figure img {
+ width: 100%;
+}
+.offer .offer-bg .offer_box h3 {
+  font-size: 30px;
+  font-weight: bolder;
+  color: white;
+ padding-bottom: 30px;
+}
+.offer .offer-bg .offer_box p {padding-top: 35px; font-size: 17px; line-height: 23px; color: whitesmoke;}
+
+.read-more { 
+font-family: poppins;
+max-width: 212px;
+margin: 0 auto;
+margin-top: 0px;
+display: block;
+background: #fff;
+color: #000 !important;
+padding: 12px 0px;
+width: 100%;
+font-size: 17px;
+float: left;
+border-radius: 10px;
+margin-top: -100px;
+}
+
+.read-more:hover {
+  background: red;
+  color: #fff !important;
+}
+
+
+.margin_ttt {margin-top: 100px;}
+.margin-lkk {margin-top: 200px;}
+/** end offer **/
+
+
+
+
 .track_section {
   position: relative;
   color: #ffffff;
