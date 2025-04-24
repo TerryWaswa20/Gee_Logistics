@@ -40,6 +40,7 @@
 *::after {
   box-sizing: border-box;
 }
+.container-fluid{position:relative;margin-left:auto;margin-right:auto;padding-right:15px;padding-left:15px}@media (min-width:576px){.container-fluid{padding-right:15px;padding-left:15px}}@media (min-width:768px)
 
 html {
   font-family: sans-serif;
